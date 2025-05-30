@@ -42,6 +42,9 @@
     Get_HighestPart PointCloud 1.1.0 패치내용 반영
     프로시저명 변경 (Save_HighestPart Image -> Save_Highest PointCloud Image)
 
+    **1.2.0**       
+    Save_Image for PointCloud 1.1.0 패치내용 반영
+
     </details>
 
 
@@ -53,5 +56,8 @@
     
     **1.0.0**       
     프로시저 생성
+
+    **1.1.0**
+    포인트클라우드 누락으로 생기는 모서리부분의 이미지누락 현상 수정
 
     </details>
