@@ -36,7 +36,7 @@
         "en": "Get_HighestPart PointCloud\n",
         "ko": "취득_최상단 포인트 클라우드"
     },
-    "objectName": "프로시저_6",
+    "objectName": "취득_최상단  포인트 클라우드",
     "parameterTuningLevel": 0,
     "procedure_ends": [
         {
@@ -46,11 +46,11 @@
     ],
     "procedure_entries": [
         {
-            "port": 1,
+            "port": 0,
             "step": "{05a68090-fdd6-488b-b25d-2f72377aab48}"
         },
         {
-            "port": 0,
+            "port": 1,
             "step": "{05a68090-fdd6-488b-b25d-2f72377aab48}"
         }
     ],
@@ -82,7 +82,7 @@
         },
         {
             "VoxelGridSampler": {
-                "leafSize": 0.007
+                "leafSize": 0.002
             },
             "execFlags": 9,
             "guid": "{00dece14-eed2-4fdd-ab15-b3fe64d66fb1}",
@@ -97,14 +97,14 @@
         },
         {
             "EuclideanCluster": {
-                "clusterTolerance": 0.025,
+                "clusterTolerance": 0.005,
                 "cores": 4
             },
             "cloudClusterType": "EuclideanCluster",
             "execFlags": 9,
             "guid": "{d9777286-ef31-4253-9f81-d69854f5342e}",
             "maxClusterNum": 25000,
-            "minClusterNum": 400,
+            "minClusterNum": 100,
             "objectName": "포인트 클라우드 클러스터링_7",
             "parameterTuningLevel": 0,
             "scene_pos": [
