@@ -25,6 +25,9 @@
      
     **1.1.0**       
     최상단의 떨어져있는 포인트클라우드 군집이 인식 되지 않는 현상 제거
+     
+    **1.1.1**       
+    프로시저명 변경 (Get_HighestPart PointCloud -> Get_Highest PointCloud), (취득_최상단 포인트클라우드 이미지 -> 취득_최상단 포인트클라우드)
 
     </details>
 
