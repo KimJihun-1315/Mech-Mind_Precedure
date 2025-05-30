@@ -22,18 +22,25 @@
     
     **1.0.0**       
      프로시저 생성
+     
+    **1.1.0**       
+    최상단의 떨어져있는 포인트클라우드 군집이 인식 되지 않는 현상 제거
 
     </details>
 
 
-<!-- Save_HighestPart Image[저장_최상단 포인트클라우드 이미지] -->
- - [Save_HighestPart Image](https://github.com/KimJihun-1315/Mech-Mind_Precedure/tree/main/Procedure/Save_HighestPart%20Image)
+<!-- Save_HighestPart(PointCloud) Image[저장_최상단 포인트클라우드 이미지] -->
+ - [Save_Highest PointCloud Image](https://github.com/KimJihun-1315/Mech-Mind_Precedure/tree/main/Procedure/Save_Highest%20PointCloud%20Image)
  [저장_최상단 포인트클라우드 이미지]
     <details>
     <summary>Version</summary>
 
     **1.0.0**       
     프로시저 생성
+
+    **1.1.0**       
+    Get_HighestPart PointCloud 1.1.0 패치내용 반영
+    프로시저명 변경 (Save_HighestPart Image -> Save_Highest PointCloud Image)
 
     </details>
 
