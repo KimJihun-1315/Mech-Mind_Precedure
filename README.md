@@ -14,9 +14,9 @@
 
 
 ## 프로시저 목록  
-<!-- Get_HighestPart PointCloud[취득_최상단 이미지 저장] -->
- - [Get_HighestPart PointCloud](https://github.com/KimJihun-1315/Mech-Mind_Precedure/tree/main/Procedure/Get_HighestPart%20PointCloud)
- [취득_최상단 이미지 저장]
+<!-- Get_Highest PointCloud[취득_최상단 포인트클라우드] -->
+ - [Get_Highest PointCloud](https://github.com/KimJihun-1315/Mech-Mind_Precedure/tree/main/Procedure/Get_Highest%20PointCloud)
+ [취득_최상단 포인트클라우드]
     <details>
     <summary>Version</summary>
     
