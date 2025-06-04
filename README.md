@@ -66,9 +66,9 @@
     </details>
 
 
-<!-- Get_Highest PointCloud[취득_최상단 포인트클라우드] -->
+<!-- Convert_Merge Data[변환_데이터 합치기] -->
  - [Convert_Merge Data](https://github.com/KimJihun-1315/Mech-Mind_Precedure/tree/main/Procedure/Convert_Merge%20Data)
- [변환_데이터 합치기기]
+ [변환_데이터 합치기]
     <details>
     <summary>Version</summary>
     
