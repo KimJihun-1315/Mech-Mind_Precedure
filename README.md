@@ -14,6 +14,23 @@
 
 
 ## 프로시저 목록  
+
+<!-- Convert_Merge Data[변환_데이터 합치기] -->
+ - [Convert_Merge Data](https://github.com/KimJihun-1315/Mech-Mind_Precedure/tree/main/Procedure/Convert_Merge%20Data)
+ [변환_데이터 합치기]
+    <details>
+    <summary>Version</summary>
+    
+    **1.0.0**       
+     프로시저 생성[압축된 데이터풀고 합치기 3개, 마스크이미지합치기 1개, 포인트클라우드합치기 1개]
+     
+    **1.0.1**       
+    프로시저명 변경 (Convert_merge CompressedData, MaskImage, PointCloud -> Convert_Merge Data), (변환_압축데이터, 마스크이미지, 포인트클라우드 합치기 -> 변환_데이터 합치기기)
+
+    </details>
+
+
+
 <!-- Get_Highest PointCloud[취득_최상단 포인트클라우드] -->
  - [Get_Highest PointCloud](https://github.com/KimJihun-1315/Mech-Mind_Precedure/tree/main/Procedure/Get_Highest%20PointCloud)
  [취득_최상단 포인트클라우드]
@@ -30,6 +47,21 @@
     프로시저명 변경 (Get_HighestPart PointCloud -> Get_Highest PointCloud), (취득_최상단 포인트클라우드 이미지 -> 취득_최상단 포인트클라우드)
 
     </details>
+
+
+
+
+<!-- Get_Pose through MaskImage[취득_마스크를 통한 포즈] -->
+ - [Get_Pose through MaskImage](https://github.com/KimJihun-1315/Mech-Mind_Precedure/tree/main/Procedure/Get_Pose%20through%20MaskImage)
+ [취득_마스크를 통한 포즈]
+    <details>
+    <summary>Version</summary>
+    
+    **1.0.0**       
+     프로시저 생성[원시포인트클라우드와 마스크를 통하여 특정위치의 포즈획득득]
+
+    </details>
+
 
 
 <!-- Save_HighestPart(PointCloud) Image[저장_최상단 포인트클라우드 이미지] -->
@@ -66,16 +98,3 @@
     </details>
 
 
-<!-- Convert_Merge Data[변환_데이터 합치기] -->
- - [Convert_Merge Data](https://github.com/KimJihun-1315/Mech-Mind_Precedure/tree/main/Procedure/Convert_Merge%20Data)
- [변환_데이터 합치기]
-    <details>
-    <summary>Version</summary>
-    
-    **1.0.0**       
-     프로시저 생성[압축된 데이터풀고 합치기 3개, 마스크이미지합치기 1개, 포인트클라우드합치기 1개]
-     
-    **1.0.1**       
-    프로시저명 변경 (Convert_merge CompressedData, MaskImage, PointCloud -> Convert_Merge Data), (변환_압축데이터, 마스크이미지, 포인트클라우드 합치기 -> 변환_데이터 합치기기)
-
-    </details>
